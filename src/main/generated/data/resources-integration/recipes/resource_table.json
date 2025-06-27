@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "resources-integration:stone_resource"
+    },
+    "*": {
+      "item": "resources-integration:board_resource"
+    }
+  },
+  "pattern": [
+    "**",
+    "##"
+  ],
+  "result": {
+    "item": "resources-integration:resource_table"
+  },
+  "show_notification": true
+}

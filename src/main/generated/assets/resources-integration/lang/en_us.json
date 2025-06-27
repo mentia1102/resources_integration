@@ -1,0 +1,9 @@
+{
+  "block.resources-integration.resource_table": "Resource Table",
+  "item.resources-integration.board_resource": "Board Resource",
+  "item.resources-integration.end_stone_resource": "End Stone Resource",
+  "item.resources-integration.nether_stone_resource": "Nether Stone Resource",
+  "item.resources-integration.nether_timber_resource": "Nether Board Resource",
+  "item.resources-integration.stone_resource": "Stone Resource",
+  "itemGroup.test_group": "test group"
+}

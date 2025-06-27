@@ -1,0 +1,9 @@
+// 1.20.1	2025-06-26T15:14:29.7396165	Resources Integration/Recipes
+328df9d68273e4210df0d8cd4971d4de483f89f7 data\resources-integration\recipes\resource_table.json
+b4e9bf3b41dc8c183ba90aaa0ec0ec5115cb1111 data\resources-integration\advancements\recipes\misc\stone_from_smelting_stone_resource.json
+f476def29c4bdaf5c2e89ec986578c5ab19f7342 data\resources-integration\advancements\recipes\redstone\dispenser.json
+42c53dd1e63f5117cb33495c4df0784ca4b4aeaa data\resources-integration\advancements\recipes\misc\resource_table.json
+b8e8790bfdea2a5581def94a7b02b2f1536e5000 data\resources-integration\recipes\dropper.json
+eeba4e619f07cc6cbb4db2e576450f4c398690b3 data\resources-integration\advancements\recipes\redstone\dropper.json
+5e07f241333e597b939a672594fbd4fc947248ff data\resources-integration\recipes\stone_from_smelting_stone_resource.json
+ffe126d10a2792431a0325653cfbebde4ac14090 data\resources-integration\recipes\dispenser.json

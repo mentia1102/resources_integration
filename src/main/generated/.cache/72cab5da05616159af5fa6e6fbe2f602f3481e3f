@@ -1,0 +1,5 @@
+// 1.20.1	2025-06-26T15:14:29.7345126	Resources Integration/Tags for minecraft:item
+e775375e1abcdd50ba832f27fe93b5ea3613d5dc data\minecraft\tags\items\planks.json
+29204eac1e5559d2185b29b0e7f2cd5fc366d9cc data\resources-integration\tags\items\resource.json
+aa7d177a7c76890840af3f6f8835373edabad90b data\minecraft\tags\items\stone_tool_materials.json
+aa7d177a7c76890840af3f6f8835373edabad90b data\minecraft\tags\items\stone_crafting_materials.json

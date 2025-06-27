@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "resources-integration:board_resource",
+    "resources-integration:stone_resource",
+    "resources-integration:nether_timber_resource",
+    "resources-integration:nether_stone_resource",
+    "resources-integration:end_stone_resource"
+  ]
+}

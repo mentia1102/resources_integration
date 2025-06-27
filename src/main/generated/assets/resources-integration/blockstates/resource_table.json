@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "resources-integration:block/resource_table"
+    }
+  }
+}

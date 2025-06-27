@@ -1,0 +1,9 @@
+{
+  "block.resources-integration.resource_table": "资源工作台",
+  "item.resources-integration.board_resource": "木料资源",
+  "item.resources-integration.end_stone_resource": "末地石料资源",
+  "item.resources-integration.nether_stone_resource": "下届石料资源",
+  "item.resources-integration.nether_timber_resource": "下届木料资源",
+  "item.resources-integration.stone_resource": "石料资源",
+  "itemGroup.test_group": "测试组"
+}
