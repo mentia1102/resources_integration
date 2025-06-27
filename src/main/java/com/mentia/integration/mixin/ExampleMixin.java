@@ -12,10 +12,10 @@ import org.spongepowered.asm.mixin.injection.callback.CallbackInfoReturnable;
 public class ExampleMixin {
 	@Inject(method = "getMaxCount()I",at=@At("HEAD"), cancellable = true)
 	private void getCunstomMaxCount(CallbackInfoReturnable<Integer> cir) {
-		ItemStack stack = (ItemStack) (Object) this;
-		if (stack.getItem().getClass().getName().contains("board_resource")) {
-			cir.setReturnValue(stack.getItem().getMaxCount());
-		}
+//		ItemStack stack = (ItemStack) (Object) this;
+//		if (stack.getItem().getClass().getName().contains("board_resource")) {
+//			cir.setReturnValue(stack.getItem().getMaxCount());
+//		}
 		// This code is injected into the start of MinecraftServer.loadWorld()V
 	}
 }
