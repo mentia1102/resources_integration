@@ -200,6 +200,28 @@ public class ModLootTableProvider extends FabricBlockLootTableProvider {
         addDrop(Blocks.TUFF,resourceDrops(Blocks.TUFF,ModItems.STONE_RESOURCE,1.0f));
 
 
+        //下届石料
+        addDrop(Blocks.NETHERRACK,resourceDrops(Blocks.NETHERRACK,ModItems.NETHER_STONE_RESOURCE,1.0f));//地狱岩
+        addDrop(Blocks.BASALT,resourceDrops(Blocks.BASALT,ModItems.NETHER_STONE_RESOURCE,1.0f));//玄武岩
+        addDrop(Blocks.POLISHED_BASALT,resourceDrops(Blocks.POLISHED_BASALT,ModItems.NETHER_STONE_RESOURCE,1.0f));//磨制玄武岩
+        addDrop(Blocks.SMOOTH_BASALT,resourceDrops(Blocks.SMOOTH_BASALT,ModItems.NETHER_STONE_RESOURCE,1.0f));//平滑玄武岩
+        addDrop(Blocks.BLACKSTONE,resourceDrops(Blocks.BLACKSTONE,ModItems.NETHER_STONE_RESOURCE,1.0f));//黑石
+        addDrop(Blocks.BLACKSTONE_SLAB,resourceDrops(Blocks.BLACKSTONE_SLAB,ModItems.NETHER_STONE_RESOURCE,1.0f));//黑石台阶
+        addDrop(Blocks.BLACKSTONE_STAIRS,resourceDrops(Blocks.BLACKSTONE_STAIRS,ModItems.NETHER_STONE_RESOURCE,1.0f));//黑石楼梯
+        addDrop(Blocks.BLACKSTONE_WALL,resourceDrops(Blocks.BLACKSTONE_WALL,ModItems.NETHER_STONE_RESOURCE,1.0f));//黑石墙
+        addDrop(Blocks.POLISHED_BLACKSTONE,resourceDrops(Blocks.POLISHED_BLACKSTONE,ModItems.NETHER_STONE_RESOURCE,1.0f));//磨制黑石
+        addDrop(Blocks.POLISHED_BLACKSTONE_SLAB,resourceDrops(Blocks.POLISHED_BLACKSTONE_SLAB,ModItems.NETHER_STONE_RESOURCE,1.0f));//磨制黑石台阶
+        addDrop(Blocks.POLISHED_BLACKSTONE_STAIRS,resourceDrops(Blocks.POLISHED_BLACKSTONE_STAIRS,ModItems.NETHER_STONE_RESOURCE,1.0f));//磨制黑石楼梯
+        addDrop(Blocks.POLISHED_BLACKSTONE_WALL,resourceDrops(Blocks.POLISHED_BLACKSTONE_WALL,ModItems.NETHER_STONE_RESOURCE,1.0f));//磨制黑石墙
+        addDrop(Blocks.CHISELED_POLISHED_BLACKSTONE,resourceDrops(Blocks.CHISELED_POLISHED_BLACKSTONE,ModItems.NETHER_STONE_RESOURCE,1.0f));//磨制黑石錾板
+        addDrop(Blocks.POLISHED_BLACKSTONE_BRICKS,resourceDrops(Blocks.POLISHED_BLACKSTONE_BRICKS,ModItems.NETHER_STONE_RESOURCE,1.0f));//磨制黑石砖
+        addDrop(Blocks.POLISHED_BLACKSTONE_BRICK_SLAB,resourceDrops(Blocks.POLISHED_BLACKSTONE_BRICK_SLAB,ModItems.NETHER_STONE_RESOURCE,1.0f));//磨制黑石砖台阶
+        addDrop(Blocks.POLISHED_BLACKSTONE_BRICK_STAIRS,resourceDrops(Blocks.POLISHED_BLACKSTONE_BRICK_STAIRS,ModItems.NETHER_STONE_RESOURCE,1.0f));//磨制黑石砖楼梯
+        addDrop(Blocks.POLISHED_BLACKSTONE_BRICK_WALL,resourceDrops(Blocks.POLISHED_BLACKSTONE_BRICK_WALL,ModItems.NETHER_STONE_RESOURCE,1.0f));//磨制黑石砖墙
+        addDrop(Blocks.CRACKED_POLISHED_BLACKSTONE_BRICKS,resourceDrops(Blocks.CRACKED_POLISHED_BLACKSTONE_BRICKS,ModItems.NETHER_STONE_RESOURCE,1.0f));//损坏的磨制黑石砖
+
+
+
 
     }
 
